@@ -1,0 +1,30 @@
+
+
+.body{margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 200px;
+padding: 20;
+text-align: right;
+}
+
+.h1{
+
+}
+.h2{
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;}
+
+.intro{
+  height:300px;
+  background-color: #47B5FF ;
+  padding:30px 30px 30px 30px;
+  text-align: justify;
+  }
+
+  .p-intro{
+    margin-left: 200px;
+
+  }
